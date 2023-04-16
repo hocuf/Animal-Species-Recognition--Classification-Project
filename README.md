@@ -1,4 +1,4 @@
-# Animal-Species-Recognition_Classification_Project
+# Animal Species Recognition Classification Project
 
 
 An Animal Species Recognition and Classification project aims to create an artificial intelligence-based system that recognizes and classifies the images of various animal species using computer vision and machine learning techniques.
